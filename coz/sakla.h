@@ -1,0 +1,3 @@
+struct VERI{
+     char data;
+};
